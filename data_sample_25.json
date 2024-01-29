@@ -1,0 +1,3740 @@
+{
+    "labels": ["discovery", "release date", "technical assistance", "commercial request", "claim", "confirmation of interest", "information", "specific product"],
+    "markers": {"#_sign": "generalization in visitor turns", "language":  "We use English for annotation and French for pieces of non sensitive textual data"},
+    "data_sample": [
+        {
+            "id": 1,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting je suis \u00e0 la recherche d une #brand #model electrique"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " ok,pas de souci"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " pouvez vous me indiquer"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " les premiers tarif #model en #option ou #option"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": " non"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": "#digit"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " pas plus de #digit en #option"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": " je ne sais pas encore"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": " oui,#brand #model"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "visitor",
+                    "text": " non je ne peux pas prende de photos actuellement"
+                },
+                {
+                    "turn": 28,
+                    "speaker": "visitor",
+                    "text": " #digit"
+                },
+                {
+                    "turn": 29,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 30,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 31,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 32,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 33,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 34,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 35,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 36,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 37,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 38,
+                    "speaker": "visitor",
+                    "text": " assez rapidement"
+                },
+                {
+                    "turn": 39,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 40,
+                    "speaker": "visitor",
+                    "text": " pourquoi pas"
+                },
+                {
+                    "turn": 41,
+                    "speaker": "visitor",
+                    "text": " j aimerait avoir un rdv rapidement"
+                },
+                {
+                    "turn": 42,
+                    "speaker": "agent",
+                    "text": " pour la vid\u00e9o"
+                },
+                {
+                    "turn": 43,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 44,
+                    "speaker": "agent",
+                    "text": " a #digit"
+                },
+                {
+                    "turn": 45,
+                    "speaker": "visitor",
+                    "text": " oui pas de souci"
+                },
+                {
+                    "turn": 46,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 47,
+                    "speaker": "agent",
+                    "text": " vous souhaitez plut\u00f4t vous rendre dans quelles concessions ?"
+                },
+                {
+                    "turn": 48,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 49,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 50,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "discovery"
+        },
+        {
+            "id": 2,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting est-il possible d'avoir une simulation de #option sur ce #product ?"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": " et derni\u00e8res question"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": " je n'ai pas de carte grise"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " pourquoi en avez vous besoin ?"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": " non"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": "#digit"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "visitor",
+                    "text": "#digit prestations et assurances comprises"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "visitor",
+                    "text": " sur #digit ans"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 28,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 29,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 30,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 31,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 32,
+                    "speaker": "visitor",
+                    "text": " oui s'il vous plait"
+                },
+                {
+                    "turn": 33,
+                    "speaker": "visitor",
+                    "text": " m\u00eame toute la r\u00e9gion #geo"
+                },
+                {
+                    "turn": 34,
+                    "speaker": "agent",
+                    "text": " c'est not\u00e9. j'ai une #brand #model #range dans nos studios.je vous propose de vivre une exp\u00e9rience vid\u00e9o personnalis\u00e9e [movie_camera] durant laquelle notre expert produit vous pr\u00e9sentera en direct le #product. environ 30 min durant lesquelles vous pourrez poser toutes vos questions \ud83d\ude09. afin que ce soit plus confortable pour vous"
+                },
+                {
+                    "turn": 35,
+                    "speaker": "visitor",
+                    "text": " j'ai d\u00e9j\u00e0 vu et conduit le #product merci"
+                },
+                {
+                    "turn": 36,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 37,
+                    "speaker": "agent",
+                    "text": " dans l'attente de cet appel"
+                },
+                {
+                    "turn": 38,
+                    "speaker": "visitor",
+                    "text": " bonne ann\u00e9e"
+                },
+                {
+                    "turn": 39,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "confirmation of interest"
+        },
+        {
+            "id": 3,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting avez vous des #brand #model #type ou #type d occasion a vendre ?"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " oui."
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " minimun un #digit"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " max #digit euro et pas plus de #digit"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": " a voir mais je vais essayer de la vendre par mes propres moyens avant."
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "agent",
+                    "text": "dans l'attente de cet appel"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "visitor",
+                    "text": " merci."
+                },
+                {
+                    "turn": 25,
+                    "speaker": "visitor",
+                    "text": " bonne ann\u00e9e a vous aussi"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "information"
+        },
+        {
+            "id": 4,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting je souhaiterai obtenir un devis sur un changement de plaquettes de freins et un diag train avant"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "visitor",
+                    "text": " svp"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " cv 923 wx"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": " je n ai pas le num\u00e9ro de s\u00e9rie sur moi"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": "#val-de-marne"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": " #prenom .sylvanise@gmail.com"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": " ok pour la mise en relation"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "commercial request"
+        },
+        {
+            "id": 5,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting "
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " j'aimerai acheter une #brand #model #type interieur beige"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": " je veux avoir les critaire precis"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " #brand #model #type interieur biege"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": " c'etait prevu d'etre acheter en 2022"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "visitor",
+                    "text": " je suis en retard"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": " peut importe du moment que c'est le modele que je veux"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "agent",
+                    "text": "closing_elicitation"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "visitor",
+                    "text": " si il y un sense oui mais il me semble qu'ils n'on pas de voiture similair a ma recherche"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": " dans l\\attente de cet appel"
+                }
+            ],
+            "label": "specific product"
+        },
+        {
+            "id": 6,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting une question"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " le pre sens\u00e9 sur un #model de #digit/#digit"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " frein t\u00e2\u0080\u0099il seul en cas de collision imminente ?"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "choice_question"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " je l\u00e2\u0080\u0099ai en possession depuis peu"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": " non ok"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "visitor",
+                    "text": " merci"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "agent",
+                    "text": " bonne journ2e"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "agent",
+                    "text": " bonne journ\u00e9e*\n"
+                }
+            ],
+            "label": "technical assistance"
+        },
+        {
+            "id": 7,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting est il possible de payer par mois car ca me le propose pas ?"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " #brand #model #range"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " oui cela me convient"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " manuelle"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": "#digit"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#digit"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": " oui #digit"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "visitor",
+                    "text": " non"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "visitor",
+                    "text": " oui meme surement avant"
+                },
+                {
+                    "turn": 28,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 29,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 30,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 31,
+                    "speaker": "visitor",
+                    "text": " non je travail"
+                },
+                {
+                    "turn": 32,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 33,
+                    "speaker": "visitor",
+                    "text": " oui #digit h"
+                },
+                {
+                    "turn": 34,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 35,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 36,
+                    "speaker": "visitor",
+                    "text": " oui cela me convient"
+                },
+                {
+                    "turn": 37,
+                    "speaker": "visitor",
+                    "text": " on m'appelera a #digit h"
+                },
+                {
+                    "turn": 38,
+                    "speaker": "visitor",
+                    "text": " c'est bien ca ?"
+                },
+                {
+                    "turn": 39,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 40,
+                    "speaker": "agent",
+                    "text": " dans l'attente de cet appel"
+                },
+                {
+                    "turn": 41,
+                    "speaker": "visitor",
+                    "text": " bonne journ\u00e9e a vous aussi"
+                },
+                {
+                    "turn": 42,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "discovery"
+        },
+        {
+            "id": 8,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting \u00e0 partir de quand sera commercialis\u00e9e la nouvelle #brand #model #type"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " parfait"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "choice_question"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " je ne sais pas encore. les deux sont envisageables"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": "comptant"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": " \u00e3\\x80 titre informatif"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": "dirigeant d'entreprises #digit ans"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "visitor",
+                    "text": " pourquoi un conseiller fiscal ?"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "visitor",
+                    "text": " ??"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 28,
+                    "speaker": "visitor",
+                    "text": " il pourront me renseigner sur la date de sortie de la #model #type et son tarif ??"
+                },
+                {
+                    "turn": 29,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 30,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 31,
+                    "speaker": "visitor",
+                    "text": " oui le #brand #model #type qui sort en mars"
+                },
+                {
+                    "turn": 32,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 33,
+                    "speaker": "agent",
+                    "text": " de votre reprise"
+                },
+                {
+                    "turn": 34,
+                    "speaker": "visitor",
+                    "text": "#digit hybrid #digit"
+                },
+                {
+                    "turn": 35,
+                    "speaker": "visitor",
+                    "text": "~sensitive"
+                },
+                {
+                    "turn": 36,
+                    "speaker": "agent",
+                    "text": "set_question"
+                },
+                {
+                    "turn": 37,
+                    "speaker": "visitor",
+                    "text": " je le rach\u00e8te en mars #digit en fin de #option pour faire la jonction avec le suivant"
+                },
+                {
+                    "turn": 38,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 39,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 40,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "release date"
+        },
+        {
+            "id": 9,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting "
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "visitor",
+                    "text": " #greeting"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " seriez-vous mesure de me donner un devis de r\u00e9paration sur mon #brand #model s'il vous pla\u00eet"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "disconfirm"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": " ou num\u00e9ro de tph de concessionnaire a rs prestige la garde sv0"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " oui la garde"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": " num\u00e9ro de s\u00e9rie est #sensitive"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#sensitive - #sensitive -#sensitive"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": " j'aurais besoin de changer les galets tendeur et le buter d'embrayage sur l'#brand #model = embrayage - volent bi masse . merci"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": " c'est not\u00e9."
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "visitor",
+                    "text": " si les co\u00fbts de r\u00e9paration sera tr\u00e8s important je vais devoir me s\u00e9parer de ma voiture merci"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "visitor",
+                    "text": " merci madame . bonne journey"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "technical assistance"
+        },
+        {
+            "id": 10,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting je r\u00e9fl\u00e9chis \u00e0 l'acg"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "visitor",
+                    "text": " je r\u00e9fl\u00e9chis \u00e0 l'achat d'une #model #type et je ne vois plus les tarifs"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " ok merci"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " merci de me contacter au mois de mars"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " cdt"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " y a-t-il un malus ?"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": " pas de d\u00e9marchage intempestif svp !!!!!!!!"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": " malus ?"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": " conform\u00e9ment \u00e0 la loi rgpd"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": " ok merci"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "agent",
+                    "text": " vous habitez dans quelle ville svp ?"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "visitor",
+                    "text": " je vais quitter le site. merci"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                }
+            ],
+            "label": "specific product"
+        },
+        {
+            "id": 11,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting impossible de joindre #brand #geo"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " n'de s\u00e9rie ? quelle lettre sur cg ?"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": " c'est le num\u00e9ro en majuscule e sur la carte grise"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " pas #geo. #brand #geo"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": " pourquoi la concession #brand de #geo ne r\u00e9pond pas ?"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "agent",
+                    "text": " #brand partenaire #brand"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "visitor",
+                    "text": " quand aurai je un reponse ? par qui ?"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "visitor",
+                    "text": " ok. merci"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "agent",
+                    "text": " bonne journ\u00e9e\n"
+                }
+            ],
+            "label": "claim"
+        },
+        {
+            "id": 12,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting "
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "visitor",
+                    "text": " et bonne ann\u00e9e :)"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " ma voiture (#brand #model) m'indique qu'il faut changer la pile de la cl\u00e9"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": " dois je me rendre dans un site #brand?"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " que vous faut-il?"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": "#geo #sensitive"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": " adresse mail"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": " parfait"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": " c'est tout bon"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "visitor",
+                    "text": " merci !"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "visitor",
+                    "text": " bonne journ\u00e9e"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "agent",
+                    "text": " a vous aussi\n"
+                }
+            ],
+            "label": "technical assistance"
+        },
+        {
+            "id": 13,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting je suis a la recherche d'une #brand #type #feature #option pouvez vous me renseigner"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": " pour une courte ou longue dur\u00e9e ?"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " longue"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "choice_question"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " particulier"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": "#model"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " en location"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": " je sais pas je roule \u00e9norm\u00e9ment"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": " mixte"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "visitor",
+                    "text": " se sera celon le prix de la location"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": " l'apport et t'il obligatoire ?"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "agent",
+                    "text": "disconfirm"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "visitor",
+                    "text": " non mais je peux vous vendre mon ancienne voiture"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "visitor",
+                    "text": " pour constituer un petit apport"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "visitor",
+                    "text": "#model #digit km premi\u00e8re mise en circulation #digit avec l'aile gauche en moin car je l'ai perdu resament sur la route"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "visitor",
+                    "text": " je ne sais plus pour le moment"
+                },
+                {
+                    "turn": 28,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 29,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 30,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 31,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 32,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 33,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 34,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 35,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 36,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 37,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 38,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 39,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 40,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "commercial request"
+        },
+        {
+            "id": 14,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting "
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "visitor",
+                    "text": " je recherche une #model"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " ok"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "choice_question"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": " pro"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " ok"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": " au comptant"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " non"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "preclosing"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "visitor",
+                    "text": " #digit h?"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 28,
+                    "speaker": "visitor",
+                    "text": " parfait. c'est chez eux que je fais d\u00e9j\u00e0 l'entretien des mes #brand"
+                },
+                {
+                    "turn": 29,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 30,
+                    "speaker": "visitor",
+                    "text": " non"
+                },
+                {
+                    "turn": 31,
+                    "speaker": "visitor",
+                    "text": " bonne journ\u00e9e"
+                },
+                {
+                    "turn": 32,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 33,
+                    "speaker": "agent",
+                    "text": " bonne journ\u00e9e\n"
+                }
+            ],
+            "label": "specific product"
+        },
+        {
+            "id": 15,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting vous faites des #option ?"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " je n ai pas encore de mod\u00e8le pr\u00e9cis mais j aimerai rester sur un budget entre 500 et 600 euro le mois"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "choice_question"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " particulier"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " avec plaisir"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " mon contact #sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " non z\u00e9ro apport"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "request"
+                }
+            ],
+            "label": "discovery"
+        },
+        {
+            "id": 16,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " j aimerai faire un contrat #option pour un #brand #model #feature"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "choice_question"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " particulier"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": " particulier"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "choice_question"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " sa d\u00e9pend neuf ou d occasion mais #product recent"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " occasion"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "dialog_act_invitation"
+                }
+            ],
+            "label": "commercial request"
+        },
+        {
+            "id": 17,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting je voudrais acheter un cache \u00e9crou pour mon #brand #model"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " ok !"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " je vais chercher le num\u00e9ro de s\u00e9rie"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " nom: #nom pr\u00e9nom : #prenom"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " \u00e7a me va tr\u00e8s bien !"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": " merci !"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": " bonne journ\u00e9e"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": " bonne journ\u00e9e \u00e9galement !"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "commercial request"
+        },
+        {
+            "id": 18,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " pour faire un devis revision"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " 92600"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                }
+            ],
+            "label": "technical assistance"
+        },
+        {
+        "id": 19,
+        "chat": [
+          {
+            "turn": 1,
+            "trigger": "trigger",
+            "text": "trigger"
+          },
+          {
+            "turn": 2,
+            "speaker": "visitor",
+            "text": " #greeting "
+          },
+          {
+            "turn": 3,
+            "speaker": "agent",
+            "text": "greeting"
+          },
+          {
+            "turn": 4,
+            "speaker": "agent",
+            "text": "confirm"
+          },
+          {
+            "turn": 5,
+            "speaker": "agent",
+            "text": "request"
+          },
+          {
+            "turn": 6,
+            "speaker": "visitor",
+            "text": " pour un #brand #model"
+          },
+          {
+            "turn": 7,
+            "speaker": "agent",
+            "text": "set_question"
+          },
+          {
+            "turn": 8,
+            "speaker": "visitor",
+            "text": " justement j aimerai avoir plusieurs devis 1 #feature et l'autre #feature"
+          },
+          {
+            "turn": 9,
+            "speaker": "agent",
+            "text": " ce mod\u00e8le est pas disponible en #feature"
+          },
+          {
+            "turn": 10,
+            "speaker": "agent",
+            "text": "confirm"
+          },
+          {
+            "turn": 11,
+            "speaker": "visitor",
+            "text": " ok"
+          },
+          {
+            "turn": 12,
+            "speaker": "agent",
+            "text": "choice_question"
+          },
+          {
+            "turn": 13,
+            "speaker": "visitor",
+            "text": " particulier"
+          },
+          {
+            "turn": 14,
+            "speaker": "agent",
+            "text": "closing_politeness_statement"
+          },
+          {
+            "turn": 15,
+            "speaker": "visitor",
+            "text": "#sensitive"
+          },
+          {
+            "turn": 16,
+            "speaker": "agent",
+            "text": "thanking"
+          },
+          {
+            "turn": 17,
+            "speaker": "visitor",
+            "text": "#geo"
+          },
+          {
+            "turn": 18,
+            "speaker": "agent",
+            "text": "request"
+          },
+          {
+            "turn": 19,
+            "speaker": "visitor",
+            "text": " un dossier dois d\u00e9j\u00e0 exister a mon nom"
+          },
+          {
+            "turn": 20,
+            "speaker": "visitor",
+            "text": "#sensitive"
+          },
+          {
+            "turn": 21,
+            "speaker": "agent",
+            "text": "confirm"
+          },
+          {
+            "turn": 22,
+            "speaker": "visitor",
+            "text": "option"
+          },
+          {
+            "turn": 23,
+            "speaker": "agent",
+            "text": "request"
+          },
+          {
+            "turn": 24,
+            "speaker": "visitor",
+            "text": " #product sera pour ma conjoint "
+          },
+          {
+            "turn": 25,
+            "speaker": "agent",
+            "text": "request"
+          },
+          {
+            "turn": 26,
+            "speaker": "visitor",
+            "text": " cela d\u00e9pendra des option de #product mais pour le premiere payment sera de #digit"
+          },
+          {
+            "turn": 27,
+            "speaker": "visitor",
+            "text": " euro pardon"
+          },
+          {
+            "turn": 28,
+            "speaker": "agent",
+            "text": "confirm"
+          },
+          {
+            "turn": 29,
+            "speaker": "agent",
+            "text": "request"
+          },
+          {
+            "turn": 30,
+            "speaker": "visitor",
+            "text": " possible oui a voir le rarif de la repris"
+          },
+          {
+            "turn": 31,
+            "speaker": "visitor",
+            "text": " tarif"
+          },
+          {
+            "turn": 32,
+            "speaker": "agent",
+            "text": "request"
+          },
+          {
+            "turn": 33,
+            "speaker": "visitor",
+            "text": " possible oui a voir le tarif de la reprise"
+          },
+          {
+            "turn": 34,
+            "speaker": "visitor",
+            "text": " pouvez vous me donner un rdv avec un commerciale pour ce samedi ?"
+          },
+          {
+            "turn": 35,
+            "speaker": "agent",
+            "text": "confirm"
+          },
+          {
+            "turn": 36,
+            "speaker": "agent",
+            "text": "elicitation"
+          },
+          {
+            "turn": 37,
+            "speaker": "visitor",
+            "text": " oui cela me convient"
+          },
+          {
+            "turn": 38,
+            "speaker": "visitor",
+            "text": " merci"
+          },
+          {
+            "turn": 39,
+            "speaker": "agent",
+            "text": "dialog_act_invitation"
+          },
+          {
+            "turn": 40,
+            "speaker": "visitor",
+            "text": " je suis disponible le samedi "
+          },
+          {
+            "turn": 41,
+            "speaker": "agent",
+            "text": "preclosing"
+          },
+          {
+            "turn": 42,
+            "speaker": "visitor",
+            "text": " non merci"
+          },
+          {
+            "turn": 43,
+            "speaker": "agent",
+            "text": "thanking"
+          }
+        ],
+        "label": "commercial request"},
+        {
+            "id": 20,
+            "chat": [
+                  {
+                      "turn": 1,
+                      "trigger": "trigger",
+                      "text": "trigger"
+                  },
+                  {
+                      "turn": 2,
+                      "speaker": "visitor",
+                      "text": " #greeting je voudrais un tarif pour une pompe injection"
+                  },
+                  {
+                      "turn": 3,
+                      "speaker": "agent",
+                      "text": "greeting"
+                  },
+                  {
+                      "turn": 4,
+                      "speaker": "agent",
+                      "text": "elicitation"
+                  },
+                  {
+                      "turn": 5,
+                      "speaker": "visitor",
+                      "text": " oui"
+                  },
+                  {
+                      "turn": 6,
+                      "speaker": "agent",
+                      "text": "request"
+                  },
+                  {
+                      "turn": 7,
+                      "speaker": "visitor",
+                      "text": "#sensitive"
+                  },
+                  {
+                      "turn": 8,
+                      "speaker": "agent",
+                      "text": "closing_politeness_statement"
+                  },
+                  {
+                      "turn": 9,
+                      "speaker": "visitor",
+                      "text": "#sensitive"
+                  },
+                  {
+                      "turn": 10,
+                      "speaker": "agent",
+                      "text": "thanking"
+                  },
+                  {
+                      "turn": 11,
+                      "speaker": "visitor",
+                      "text": "#geo"
+                  },
+                  {
+                      "turn": 12,
+                      "speaker": "agent",
+                      "text": "request"
+                  },
+                  {
+                      "turn": 13,
+                      "speaker": "visitor",
+                      "text": " #sensitive"
+                  },
+                  {
+                      "turn": 14,
+                      "speaker": "visitor",
+                      "text": "#sensitive"
+                  },
+                  {
+                      "turn": 15,
+                      "speaker": "agent",
+                      "text": "elicitation"
+                  },
+                  {
+                      "turn": 16,
+                      "speaker": "visitor",
+                      "text": " oui"
+                  },
+                  {
+                      "turn": 17,
+                      "speaker": "visitor",
+                      "text": " sa me convient"
+                  },
+                  {
+                      "turn": 18,
+                      "speaker": "agent",
+                      "text": "thanking"
+                  }
+              ],
+          "label": "commercial request"
+        },
+        {
+            "id": 21,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting j'ai achet\u00e9 un #model #range le #digit. les clignotants ar \u00e9taient pr\u00e9vus en mode \u00e0 d\u00e9filement. ils ne le sont pas et je n'ai re\u00e7u aucune info ni d\u00e9dommagement \u00e0 ce sujet lors de la prise en main du #product. pouvez-vous (puisqu'ils sont au catalogue) r\u00e9aligner mon #product ?"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " #sensitive #model #range #feature"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": " la concession o\u00f9 j'ai achet\u00e9 le #product est auto expo \u00e0 avion. mais ils n'ont pas donn\u00e9 suite \u00e0 ma remarque. j'ai quitt\u00e9 il a quelques ann\u00e9es celle de #geo ...."
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": " et je pense que pour mon prochain achat je quitterai certainement #brand."
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " non merci"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": " je vous remercie."
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": " bonne journ\u00e9e \u00e9galement et meilleurs voeux pour 2023."
+                },
+                {
+                    "turn": 24,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "claim"
+        },
+        {
+          "id": 22,
+          "chat": [
+            {
+              "turn": 1,
+              "trigger": "trigger",
+              "text": "trigger"
+            },
+            {
+              "turn": 2,
+              "speaker": "visitor",
+              "text": " #greeting  "
+            },
+            {
+              "turn": 3,
+              "speaker": "agent",
+              "text": "greeting"
+            },
+            {
+              "turn": 4,
+              "speaker": "agent",
+              "text": " a quel sujet ?"
+            },
+            {
+              "turn": 5,
+              "speaker": "visitor",
+              "text": " je souhaiterais connaitre les diff\u00e9rentes modalit\u00e9s pour acqu\u00e9rir un #product"
+            },
+            {
+              "turn": 6,
+              "speaker": "agent",
+              "text": "request"
+            },
+            {
+              "turn": 7,
+              "speaker": "visitor",
+              "text": " #model"
+            },
+            {
+              "turn": 8,
+              "speaker": "agent",
+              "text": "set_question"
+            },
+            {
+              "turn": 9,
+              "speaker": "visitor",
+              "text": " automatique"
+            },
+            {
+              "turn": 10,
+              "speaker": "agent",
+              "text": "choice_question"
+            },
+            {
+              "turn": 11,
+              "speaker": "visitor",
+              "text": " pro"
+            },
+            {
+              "turn": 12,
+              "speaker": "agent",
+              "text": "closing_politeness_statement"
+            },
+            {
+              "turn": 13,
+              "speaker": "visitor",
+              "text": "#sensitive"
+            },
+            {
+              "turn": 14,
+              "speaker": "visitor",
+              "text": " #sensitive"
+            },
+            {
+              "turn": 15,
+              "speaker": "visitor",
+              "text": "#sensitive"
+            },
+            {
+              "turn": 16,
+              "speaker": "agent",
+              "text": "thanking"
+            },
+            {
+              "turn": 17,
+              "speaker": "visitor",
+              "text": "#geo"
+            },
+            {
+              "turn": 18,
+              "speaker": "agent",
+              "text": "confirm"
+            },
+            {
+              "turn": 19,
+              "speaker": "visitor",
+              "text": " #option ou #option mais je ne souhaiterais pas avoir de taux d'int\u00e9r\u00eat je ne sais pas quelle est la meilleure proposition"
+            },
+            {
+              "turn": 20,
+              "speaker": "agent",
+              "text": "request"
+            },
+            {
+              "turn": 21,
+              "speaker": "visitor",
+              "text": " entre #digit et #digit"
+            },
+            {
+              "turn": 22,
+              "speaker": "agent",
+              "text": "request"
+            },
+            {
+              "turn": 23,
+              "speaker": "visitor",
+              "text": "#digit"
+            },
+            {
+              "turn": 24,
+              "speaker": "visitor",
+              "text": " euros"
+            },
+            {
+              "turn": 25,
+              "speaker": "agent",
+              "text": "confirm"
+            },
+            {
+              "turn": 26,
+              "speaker": "visitor",
+              "text": " entre #digit et #digit euros"
+            },
+            {
+              "turn": 27,
+              "speaker": "agent",
+              "text": "request"
+            },
+            {
+              "turn": 28,
+              "speaker": "visitor",
+              "text": " peut \u00eatre que oui"
+            },
+            {
+              "turn": 29,
+              "speaker": "agent",
+              "text": "request"
+            },
+            {
+              "turn": 30,
+              "speaker": "visitor",
+              "text": "#sensitive ann\u00e9e #digit"
+            },
+            {
+              "turn": 31,
+              "speaker": "agent",
+              "text": "request"
+            },
+            {
+              "turn": 32,
+              "speaker": "agent",
+              "text": "preclosing"
+            },
+            {
+              "turn": 33,
+              "speaker": "agent",
+              "text": "elicitation"
+            },
+            {
+              "turn": 34,
+              "speaker": "visitor",
+              "text": "#upload"
+            },
+            {
+              "turn": 35,
+              "speaker": "visitor",
+              "text": "#upload"
+            },
+            {
+              "turn": 36,
+              "speaker": "visitor",
+              "text": "#upload"
+            },
+            {
+              "turn": 37,
+              "speaker": "visitor",
+              "text": "#sensitive"
+            },
+            {
+              "turn": 38,
+              "speaker": "agent",
+              "text": "elicitation"
+            },
+            {
+              "turn": 39,
+              "speaker": "visitor",
+              "text": " je pr\u00e9f\u00e8re \u00eatre contacter pas t\u00e9l\u00e9phone pour connaitre quelques modalit\u00e9s"
+            },
+            {
+              "turn": 40,
+              "speaker": "agent",
+              "text": "confirm"
+            },
+            {
+              "turn": 41,
+              "speaker": "agent",
+              "text": "request"
+            },
+            {
+              "turn": 42,
+              "speaker": "visitor",
+              "text": " #digit h c'est parfait pour moi merci"
+            },
+            {
+              "turn": 43,
+              "speaker": "agent",
+              "text": "thanking"
+            }
+          ],
+          "label": "discovery"
+        },
+        {
+            "id": 23,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting je souhaiterais un devis pour l'entretien de mon #brand #model"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " non pas sp\u00e9cifiquement"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": "#upload"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": " avez vous bien re\u00e7u le pdf ?"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "confirm"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": " je vous confie mon adresse mail ainsi que mon num\u00e9ro de t\u00e9l\u00e9phone"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "visitor",
+                    "text": " je suis difficilement joignable par t\u00e9l\u00e9phone donc merci de me contacter par mail"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "agent",
+                    "text": "elicitation"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "visitor",
+                    "text": " est-il possible d'avoir un partenaire plus proche de mon lieu de travail"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": " merci"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "thanking"
+                }
+            ],
+            "label": "technical assistance"
+        },
+        {
+            "id": 24,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": " #greeting auriez-vous vous en stock une #brand #models #type #feature de couleur noire"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "visitor",
+                    "text": " merci"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "agent",
+                    "text": "answer"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 7,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "agent",
+                    "text": "set_question"
+                }
+            ],
+            "label": "product availability"
+        },
+        {
+            "id": 25,
+            "chat": [
+                {
+                    "turn": 1,
+                    "trigger": "trigger",
+                    "text": "trigger"
+                },
+                {
+                    "turn": 2,
+                    "speaker": "visitor",
+                    "text": "#greeting"
+                },
+                {
+                    "turn": 3,
+                    "speaker": "agent",
+                    "text": "greeting"
+                },
+                {
+                    "turn": 4,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 5,
+                    "speaker": "visitor",
+                    "text": " quelles sont vos offres pour #option de max #digit svp ?"
+                },
+                {
+                    "turn": 6,
+                    "speaker": "agent",
+                    "text": " on propose notre #brand #model #range dans ce budget."
+                },
+                {
+                    "turn": 7,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 8,
+                    "speaker": "visitor",
+                    "text": " pouvez vous svp m'envoyer le lien avec les carcterisques de ce #product svp ?"
+                },
+                {
+                    "turn": 9,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 10,
+                    "speaker": "visitor",
+                    "text": " merci"
+                },
+                {
+                    "turn": 11,
+                    "speaker": "visitor",
+                    "text": " est il possible d'avoir un attelage ?"
+                },
+                {
+                    "turn": 12,
+                    "speaker": "agent",
+                    "text": "disconfirm"
+                },
+                {
+                    "turn": 13,
+                    "speaker": "visitor",
+                    "text": " ah bon"
+                },
+                {
+                    "turn": 14,
+                    "speaker": "agent",
+                    "text": "inform"
+                },
+                {
+                    "turn": 15,
+                    "speaker": "visitor",
+                    "text": " ah ok"
+                },
+                {
+                    "turn": 16,
+                    "speaker": "visitor",
+                    "text": " quel vehicules ayant un tarif proche est autoris\u00e9 a tracter svp ?"
+                },
+                {
+                    "turn": 17,
+                    "speaker": "agent",
+                    "text": "answer"
+                },
+                {
+                    "turn": 18,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 19,
+                    "speaker": "visitor",
+                    "text": " ok"
+                },
+                {
+                    "turn": 20,
+                    "speaker": "agent",
+                    "text": "closing_politeness_statement"
+                },
+                {
+                    "turn": 21,
+                    "speaker": "visitor",
+                    "text": " je cherche un voiture style #model ou #model"
+                },
+                {
+                    "turn": 22,
+                    "speaker": "agent",
+                    "text": "threat"
+                },
+                {
+                    "turn": 23,
+                    "speaker": "visitor",
+                    "text": " ?"
+                },
+                {
+                    "turn": 24,
+                    "speaker": "visitor",
+                    "text": " avez vous des propostions en ligne a me partager svp ?"
+                },
+                {
+                    "turn": 25,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 26,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 27,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 28,
+                    "speaker": "visitor",
+                    "text": " #sensitive"
+                },
+                {
+                    "turn": 29,
+                    "speaker": "visitor",
+                    "text": "#sensitive"
+                },
+                {
+                    "turn": 30,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 31,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 32,
+                    "speaker": "visitor",
+                    "text": "#geo"
+                },
+                {
+                    "turn": 33,
+                    "speaker": "agent",
+                    "text": "thanking"
+                },
+                {
+                    "turn": 34,
+                    "speaker": "visitor",
+                    "text": " oui"
+                },
+                {
+                    "turn": 35,
+                    "speaker": "agent",
+                    "text": "request"
+                },
+                {
+                    "turn": 36,
+                    "speaker": "agent",
+                    "text": "opening"
+                },
+                {
+                    "turn": 37,
+                    "speaker": "agent",
+                    "text": "threat"
+                }
+            ],
+            "label": "commercial request"
+        }
+    ]
+}
