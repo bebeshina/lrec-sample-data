@@ -651,7 +651,7 @@
                 {
                     "turn": 11,
                     "speaker": "visitor",
-                    "text": "#val-de-marne"
+                    "text": "#geo"
                 },
                 {
                     "turn": 12,
@@ -666,7 +666,7 @@
                 {
                     "turn": 14,
                     "speaker": "visitor",
-                    "text": " #prenom .sylvanise@gmail.com"
+                    "text": "#sensitive"
                 },
                 {
                     "turn": 15,
@@ -772,7 +772,7 @@
                 {
                     "turn": 17,
                     "speaker": "visitor",
-                    "text": " c'etait prevu d'etre acheter en 2022"
+                    "text": " c'etait prevu d'etre acheter en #digit"
                 },
                 {
                     "turn": 18,
@@ -807,7 +807,7 @@
                 {
                     "turn": 24,
                     "speaker": "agent",
-                    "text": " dans l\\attente de cet appel"
+                    "text": "greeting"
                 }
             ],
             "label": "specific product"
@@ -1270,12 +1270,12 @@
                 {
                     "turn": 20,
                     "speaker": "agent",
-                    "text": " \u00e3\\x80 titre informatif"
+                    "text": "preclosing"
                 },
                 {
                     "turn": 21,
                     "speaker": "visitor",
-                    "text": "dirigeant d'entreprises #digit ans"
+                    "text": "#sensitive"
                 },
                 {
                     "turn": 22,
@@ -1290,7 +1290,7 @@
                 {
                     "turn": 24,
                     "speaker": "visitor",
-                    "text": " pourquoi un conseiller fiscal ?"
+                    "text": " pourquoi un conseiller #option ?"
                 },
                 {
                     "turn": 25,
@@ -1310,7 +1310,7 @@
                 {
                     "turn": 28,
                     "speaker": "visitor",
-                    "text": " il pourront me renseigner sur la date de sortie de la #model #type et son tarif ??"
+                    "text": " il pourront me renseigner sur la date de sortie de la #product #type et son tarif ??"
                 },
                 {
                     "turn": 29,
@@ -1325,7 +1325,7 @@
                 {
                     "turn": 31,
                     "speaker": "visitor",
-                    "text": " oui le #brand #model #type qui sort en mars"
+                    "text": " oui le #brand #model #type qui sort en #time"
                 },
                 {
                     "turn": 32,
@@ -1411,7 +1411,7 @@
                 {
                     "turn": 7,
                     "speaker": "visitor",
-                    "text": " ou num\u00e9ro de tph de concessionnaire a rs prestige la garde sv0"
+                    "text": " ou num\u00e9ro de tph de concessionnaire a rs prestige #geo"
                 },
                 {
                     "turn": 8,
@@ -1421,7 +1421,7 @@
                 {
                     "turn": 9,
                     "speaker": "visitor",
-                    "text": " oui la garde"
+                    "text": " oui #geo"
                 },
                 {
                     "turn": 10,
@@ -1446,7 +1446,7 @@
                 {
                     "turn": 14,
                     "speaker": "visitor",
-                    "text": "#sensitive - #sensitive -#sensitive"
+                    "text": "#sensitive"
                 },
                 {
                     "turn": 15,
@@ -1537,7 +1537,7 @@
                 {
                     "turn": 8,
                     "speaker": "visitor",
-                    "text": " merci de me contacter au mois de mars"
+                    "text": " merci de me contacter au mois de #time"
                 },
                 {
                     "turn": 9,
@@ -1592,7 +1592,7 @@
                 {
                     "turn": 19,
                     "speaker": "agent",
-                    "text": " vous habitez dans quelle ville svp ?"
+                    "text": "elicitation"
                 },
                 {
                     "turn": 20,
@@ -1673,7 +1673,7 @@
                 {
                     "turn": 10,
                     "speaker": "agent",
-                    "text": " c'est le num\u00e9ro en majuscule e sur la carte grise"
+                    "text": "inform"
                 },
                 {
                     "turn": 11,
@@ -1925,7 +1925,7 @@
                 {
                     "turn": 5,
                     "speaker": "agent",
-                    "text": " pour une courte ou longue dur\u00e9e ?"
+                    "text": "choice question"
                 },
                 {
                     "turn": 6,
@@ -1960,7 +1960,7 @@
                 {
                     "turn": 12,
                     "speaker": "visitor",
-                    "text": " en location"
+                    "text": "#option"
                 },
                 {
                     "turn": 13,
@@ -2307,7 +2307,7 @@
                 {
                     "turn": 6,
                     "speaker": "visitor",
-                    "text": " je n ai pas encore de mod\u00e8le pr\u00e9cis mais j aimerai rester sur un budget entre 500 et 600 euro le mois"
+                    "text": " je n ai pas encore de mod\u00e8le pr\u00e9cis mais j aimerai rester sur un budget entre #digit et #digit euro le mois"
                 },
                 {
                     "turn": 7,
@@ -2372,7 +2372,7 @@
                 {
                     "turn": 19,
                     "speaker": "visitor",
-                    "text": " non z\u00e9ro apport"
+                    "text": " non #option"
                 },
                 {
                     "turn": 20,
@@ -2489,7 +2489,7 @@
                 {
                     "turn": 2,
                     "speaker": "visitor",
-                    "text": " #greeting je voudrais acheter un cache \u00e9crou pour mon #brand #model"
+                    "text": " #greeting je voudrais acheter un #product pour mon #brand #model"
                 },
                 {
                     "turn": 3,
@@ -2519,7 +2519,7 @@
                 {
                     "turn": 8,
                     "speaker": "visitor",
-                    "text": " je vais chercher le num\u00e9ro de s\u00e9rie"
+                    "text": " je vais chercher"
                 },
                 {
                     "turn": 9,
@@ -2539,7 +2539,7 @@
                 {
                     "turn": 12,
                     "speaker": "visitor",
-                    "text": " nom: #nom pr\u00e9nom : #prenom"
+                    "text": "#sensitive"
                 },
                 {
                     "turn": 13,
@@ -2655,7 +2655,7 @@
                 {
                     "turn": 10,
                     "speaker": "visitor",
-                    "text": " 92600"
+                    "text": "#geo"
                 },
                 {
                     "turn": 11,
@@ -2911,7 +2911,7 @@
                   {
                       "turn": 2,
                       "speaker": "visitor",
-                      "text": " #greeting je voudrais un tarif pour une pompe injection"
+                      "text": " #greeting je voudrais un tarif pour #product"
                   },
                   {
                       "turn": 3,
@@ -3077,7 +3077,7 @@
                 {
                     "turn": 16,
                     "speaker": "visitor",
-                    "text": " la concession o\u00f9 j'ai achet\u00e9 le #product est auto expo \u00e0 avion. mais ils n'ont pas donn\u00e9 suite \u00e0 ma remarque. j'ai quitt\u00e9 il a quelques ann\u00e9es celle de #geo ...."
+                    "text": " la concession o\u00f9 j'ai achet\u00e9 le #product est #sensitive. mais ils n'ont pas donn\u00e9 suite \u00e0 ma remarque. j'ai quitt\u00e9 il a quelques ann\u00e9es celle de #geo ...."
                 },
                 {
                     "turn": 17,
@@ -3419,7 +3419,7 @@
                 {
                     "turn": 15,
                     "speaker": "visitor",
-                    "text": " je vous confie mon adresse mail ainsi que mon num\u00e9ro de t\u00e9l\u00e9phone"
+                    "text": " #sensitive"
                 },
                 {
                     "turn": 16,
